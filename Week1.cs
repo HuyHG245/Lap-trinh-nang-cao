@@ -31,6 +31,7 @@ class Program
             else
                 Console.WriteLine("Nhập sai, vui lòng nhập lại:");
         }
+        var sum = a + b + c
         Console.WriteLine($"{a} + {b} + {c} = (a + b + c)");
     }
 }
